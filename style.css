@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0pxs; 
+}
+h1{
+    font-size: 50px;
+}
+.blue-color{
+    color: blue;
+}
+#border-line{
+    border-left: 4px solid;
+    border-color: blue;
+}
+.section-item{
+    display: flex;
+    margin-bottom: 5%;
+}
+.flexible-container{
+    display: flex;
+    height: 600px;
+    margin-bottom: 150px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.mission{
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(247, 211, 144) , orangered);
+    border-radius: 5px;
+}
+#mission-item{
+    border-radius: 25px;
+    background: moccasin;
+}
+#vission-item{
+    border-radius: 25px;
+    background: paleturquoise;
+}
+#goals-item{
+    border-radius: 25px;
+    background: rgb(245, 203, 224);
+}
+.footer-item{
+    color: white;
+    background-color: black;
+    margin: 0%;
+    height: 150px;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}

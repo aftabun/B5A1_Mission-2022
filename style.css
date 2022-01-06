@@ -34,6 +34,9 @@ h1{
 .mission{
     text-align: center;
 }
+.quran{
+    text-align: center;
+}
 .link-button{
     text-decoration: none;
     color: white;
@@ -42,16 +45,22 @@ h1{
     border-radius: 5px;
 }
 #mission-item{
+    width: 40%;
     border-radius: 25px;
-    background: moccasin;
+    background: rgb(252, 243, 226);
 }
 #vission-item{
+    width: 40%;
     border-radius: 25px;
-    background: paleturquoise;
+    background: rgb(231, 255, 255);
 }
 #goals-item{
+    width: 40%;
     border-radius: 25px;
-    background: rgb(245, 203, 224);
+    background: rgb(253, 235, 244);
+}
+.color{
+    color: skyblue;
 }
 .footer-item{
     color: white;
